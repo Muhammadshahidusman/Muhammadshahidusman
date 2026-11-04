@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<p align="center">Portfolio: <a href="https://muhammadshahidusman.github.io">https://muhammadshahidusman.github.io</a></p>
+
 <p align="center">
   <a href="mailto:shahidusmaninfo@gmail.com"><img src="https://img.shields.io/badge/Email-shahidusmaninfo%40gmail.com-0D9488?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/shahidusman"><img src="https://img.shields.io/badge/LinkedIn-shahidusman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

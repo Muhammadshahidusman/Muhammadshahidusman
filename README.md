@@ -24,7 +24,7 @@
 
 I'm a GeoAI engineer and GIS analyst based in **Lahore, Pakistan**, with **2.5 years** of hands-on work in GIS development, remote sensing and machine learning on spatial data.
 
-Most recently I was a **GIS Analyst at Invobyte**, where I built and maintained GIS databases for internal and client projects, ran spatial analysis, and delivered thematic maps, dashboards and web mapping solutions. I also integrated GIS data with other IT systems and kept web GIS apps and map services running.
+I'm currently a **GIS Analyst at Invobyte**. I create and maintain GIS databases and spatial datasets for internal and client projects, run spatial analysis, and build thematic maps, dashboards and web mapping solutions. I also integrate GIS data with other IT systems, support web GIS apps and map services, and handle data validation, troubleshooting and technical reporting for project teams.
 
 Before that I spent two years as a **GIS Developer at Sheher Saaz Pvt Ltd**, where I built a Spatial Decision Support System for the **ADB-funded Punjab Intermediate Cities Improvement Investment Program (PICIIP)**. I shipped 20+ interactive web maps on GeoServer, Leaflet, Mapbox and PostGIS, wired them together with REST APIs, automated geoprocessing with Python, and supported 10+ concurrent urban planning projects.
 
@@ -32,7 +32,7 @@ I'm doing an **MS in Data Science** at Riphah International University and hold 
 
 What I care about now: satellite imagery that drives real decisions. Flood exposure. Informal settlements. Property change.
 
-📫 Open to GIS and GeoAI roles. Reach me at [email] or on [LinkedIn](link).
+📫 Reach me at [email] or on [LinkedIn](link).
 
 ---
 

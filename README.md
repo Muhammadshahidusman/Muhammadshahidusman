@@ -22,11 +22,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a GeoAI engineer and GIS analyst based in **Lahore, Pakistan**, with **2+ years** of hands-on work in GIS development, remote sensing and machine learning on spatial data.
+I'm a GeoAI engineer and GIS analyst based in **Lahore, Pakistan**, with **2.5 years** of hands-on work in GIS development, remote sensing and machine learning on spatial data.
 
-Right now I work as a **GIS Analyst at Invobyte**, focused on cadastral and land records. Before that I spent two years as a **GIS Developer at Sheher Saaz Pvt Ltd**, where I automated data processing pipelines, built 20+ interactive web maps and supported 10+ concurrent urban planning projects.
+Most recently I was a **GIS Analyst at Invobyte**, where I built and maintained GIS databases for internal and client projects, ran spatial analysis, and delivered thematic maps, dashboards and web mapping solutions. I also integrated GIS data with other IT systems and kept web GIS apps and map services running.
 
-I'm also doing an **MS in Data Science** at Riphah International University. My current work sits where satellite imagery meets real decisions: flood exposure, informal settlements and property change.
+Before that I spent two years as a **GIS Developer at Sheher Saaz Pvt Ltd**, where I built a Spatial Decision Support System for the **ADB-funded Punjab Intermediate Cities Improvement Investment Program (PICIIP)**. I shipped 20+ interactive web maps on GeoServer, Leaflet, Mapbox and PostGIS, wired them together with REST APIs, automated geoprocessing with Python, and supported 10+ concurrent urban planning projects.
+
+I'm doing an **MS in Data Science** at Riphah International University and hold the **Microsoft Certified: Azure AI Fundamentals** credential. My published work looks at glacier mass balance and livelihoods in the Shigar Valley, Karakoram (*OEconomia*, 2024).
+
+What I care about now: satellite imagery that drives real decisions. Flood exposure. Informal settlements. Property change.
+
+📫 Open to GIS and GeoAI roles. Reach me at [email] or on [LinkedIn](link).
 
 ---
 

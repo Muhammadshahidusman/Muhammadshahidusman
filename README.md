@@ -22,15 +22,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a GeoAI engineer and GIS analyst based in **Lahore, Pakistan**, with **2.5 years** of hands-on work in GIS development, remote sensing and machine learning on spatial data.
+I'm **Muhammad Shahid Usman**, a **GIS Analyst and GeoAI engineer** in **Lahore, Pakistan** with **2+ years** of experience in GIS development, remote sensing and machine learning on spatial data.
 
-I'm currently a **GIS Analyst at Invobyte**. I create and maintain GIS databases and spatial datasets for internal and client projects, run spatial analysis, and build thematic maps, dashboards and web mapping solutions. I also integrate GIS data with other IT systems, support web GIS apps and map services, and handle data validation, troubleshooting and technical reporting for project teams.
+I'm currently a **GIS Analyst at Invobyte**, building GIS databases, spatial analysis, dashboards and web mapping solutions for client projects. Before that I was a **GIS Developer at Sheher Saaz Pvt Ltd**, where I built a Spatial Decision Support System for the **ADB-funded PICIIP program** and shipped 20+ web maps with GeoServer, Leaflet, Mapbox and PostGIS.
 
-Before that I spent two years as a **GIS Developer at Sheher Saaz Pvt Ltd**, where I built a Spatial Decision Support System for the **ADB-funded Punjab Intermediate Cities Improvement Investment Program (PICIIP)**. I shipped 20+ interactive web maps on GeoServer, Leaflet, Mapbox and PostGIS, wired them together with REST APIs, automated geoprocessing with Python, and supported 10+ concurrent urban planning projects.
-
-I'm doing an **MS in Data Science** at Riphah International University and hold the **Microsoft Certified: Azure AI Fundamentals** credential. My published work looks at glacier mass balance and livelihoods in the Shigar Valley, Karakoram (*OEconomia*, 2024).
-
-What I care about now: satellite imagery that drives real decisions. Flood exposure. Informal settlements. Property change.
+I'm doing an **MS in Data Science** at Riphah International University and hold **Microsoft Azure AI Fundamentals**. My focus: satellite imagery for flood exposure, informal settlements and property change.
 
 📫 Reach me at [email] or on [LinkedIn](link).
 
